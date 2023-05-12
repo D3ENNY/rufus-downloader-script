@@ -24,7 +24,7 @@ python ventoy.py
 ---
 ## CONTACT
 <center>
-  <table>
+  <table border=0>
     <tr>
       <td>
         <a href="https://github.com/D3ENNY">
@@ -41,6 +41,11 @@ python ventoy.py
             <img src="assets/img/telegram.png" alt="telegram" height="100px">
           </a>
       </td>
+    </tr>
     <tr>
+      <td>github</td>
+      <td>email</td>
+      <td>telegram</td>
+    </tr>
   </table>
 </center>
