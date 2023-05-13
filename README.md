@@ -49,3 +49,27 @@ python ventoy.py
     </tr>
   </table>
 </center>
+
+## SUPPORT ME
+---
+If you want support me and my project you can give me a little donation at:
+<center>
+  <table border=0>
+    <tr>
+      <td>
+        <a href="paypal.me/denysraimondi">
+          <img src="assets/img/paypal.png" height="100px">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.buymeacoffee.com/D3ENNY">
+          <img src="assets/img/buyMeACoffee.png" height="200px" >
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>paypal</td>
+      <td>Buy Me A Coffee</td>
+    </tr>
+  </table>
+</center>
