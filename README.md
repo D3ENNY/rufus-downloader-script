@@ -57,7 +57,7 @@ If you want support me and my project you can give me a little donation at:
   <table border=0>
     <tr>
       <td>
-        <a href="paypal.me/denysraimondi">
+        <a href="https://paypal.me/denysraimondi">
           <img src="assets/img/paypal.png" height="100px">
         </a>
       </td>
