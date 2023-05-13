@@ -16,7 +16,7 @@
 ****
 - to execute the program open a terminal and write this command:
 ```
-python ventoy.py
+python rufus.py
 ```
 - that's the output
   !["output.png"](assets/img/output.png)

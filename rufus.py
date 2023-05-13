@@ -32,4 +32,4 @@ try:
 except FileNotFoundError:
     with open('version/rufus-version.txt', 'w') as file:
         file.write(version)
-        downloadFile(f'https://github.com/pbatard/rufus/releases/download/v{version}/rufus-{version}.exe')
+        downloadFile(f'https://github.com/pbatard/rufus/releases/download/v{version}/rufus-{version}.exe', path)
