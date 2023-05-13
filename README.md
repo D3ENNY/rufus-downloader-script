@@ -1,6 +1,6 @@
-# ventoy-downloader-script
+# Rufus-downloader-script
 
-### script that searches for the latest available version of Ventoy for windows and downloads it
+### script that searches for the latest available version of Rufus for windows and downloads it
 
 ## INSTALLATION
 ****
